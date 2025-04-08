@@ -52,6 +52,7 @@
 - [Matheesha Senevirathne](https://github.com/Matheesha-ls)
 - [Neer Gosrani] (https://github.com/NeErAgOsRaNi)
 - [Kirtiraj Darwai]
+- [Deshmukh Shubham] (https://github.com/deshmukh-shubham)
 - [Ayush Hrishikesh Mishra](https://github.com/Ayush-hm)
 - [João Victor dos Reis da Silva](https://github.com/R3I5)
 - [Saicobys (Jacob Moronta)](https://github.com/SaicoBys)
@@ -942,6 +943,7 @@
 - [Sashakt Keshri](https://github.com/SASHAKT1290)
 - [Varun Sharma](https://github.com/varunsh20/)
 - [Keshav Kant](https://github.com/Keshav-Kant/)
+- [Cristian Leiton Valencia](https://github.com/crileiton/)
 - [emrlk](https://github.com/emrlk)
 - [Yiitalp] (https://github.com/Yiitalpp)
 - [Chuffed](https://github.com/Chuffed-Code)
