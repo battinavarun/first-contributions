@@ -13,6 +13,7 @@
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
 [Patrick Yeboah Bonsu](https://github.com/Patrick-Bonsu)
 - [Arsh Patel](https://github.com/Arshp-svg)
+- [Roman Sheydvasser](https://github.com/rsheyd)
 - [Mario Lovamanitra](https://github.com/Hey-Mario)
 - [Prayoga Agus Setiawan](https://github.com/Prayoga-bit)
 - [Dibyadyuti Das](https://github.com/DibyadyutiDas)
@@ -53,6 +54,7 @@
 - [Matheesha Senevirathne](https://github.com/Matheesha-ls)
 - [Neer Gosrani] (https://github.com/NeErAgOsRaNi)
 - [Kirtiraj Darwai]
+- [Deshmukh Shubham] (https://github.com/deshmukh-shubham)
 - [Ayush Hrishikesh Mishra](https://github.com/Ayush-hm)
 - [João Victor dos Reis da Silva](https://github.com/R3I5)
 - [Saicobys (Jacob Moronta)](https://github.com/SaicoBys)
@@ -78,6 +80,7 @@
 - [Fardeen Shahed](https://github.com/Fardeen2903)
 - [Clegginator](https://github.com/Clegginator)
 - [nii fakye](https://github.com/Niifakye)
+- [kalkrijk](https://github.com/kalkrijk)
 - [Coolgamer]
 - [dzwee]
 - [Visur Indula](https://github.com/visuraindula2001)
@@ -943,6 +946,7 @@
 - [Sashakt Keshri](https://github.com/SASHAKT1290)
 - [Varun Sharma](https://github.com/varunsh20/)
 - [Keshav Kant](https://github.com/Keshav-Kant/)
+- [Cristian Leiton Valencia](https://github.com/crileiton/)
 - [emrlk](https://github.com/emrlk)
 - [Yiitalp] (https://github.com/Yiitalpp)
 - [Chuffed](https://github.com/Chuffed-Code)
